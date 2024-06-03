@@ -1,0 +1,2 @@
+<h2>Video Summarizer</h2>
+Video Summarizer is a web application developed using OpenAI and React, aiming to streamline video content consumption. The app automatically distills videos into brief, comprehensive summaries, crafts personalized quizzes to reinforce learning, and extracts notable clips by detecting key moments. This versatile tool is ideal for educators, corporate trainers, and content creators, boosting engagement, enhancing learning experiences, and improving accessibility to video content.
